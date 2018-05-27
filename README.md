@@ -1,0 +1,2 @@
+# Buddy
+Startup - Skeleton introduction
